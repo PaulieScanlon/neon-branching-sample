@@ -1,0 +1,30 @@
+{
+  "name": "neon-branching-sample",
+  "version": "1.0.0",
+  "description": "A sample repository to demonstrate branching in Neon",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/neon-branching-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/neon-branching-sample/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/neon-branching-sample#readme",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.6.0",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

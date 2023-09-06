@@ -80,6 +80,11 @@
     pg-protocol "*"
     pg-types "^2.2.0"
 
+"@vercel/edge@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@vercel/edge/-/edge-1.0.1.tgz#94fc7be3c79834b0833dad9cfa23ed47b55309fa"
+  integrity sha512-0lE1J1QsKmet3NUlNjS1+4tw7VpOsd3wxG91A5ZAAcxxDl3RQh/ThnYVV5VYT6FoSK5ZZ3jYh5YZCd0pWPK3yQ==
+
 busboy@1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/busboy/-/busboy-1.6.0.tgz#966ea36a9502e43cdb9146962523b92f531f6893"

@@ -4,5 +4,7 @@ CREATE TABLE contact_us (
     email_address    VARCHAR,
     company_website  VARCHAR,
     company_size     VARCHAR,
-    message          VARCHAR
+    message          VARCHAR,
+    country_code     VARCHAR,
+    city             VARCHAR
 );
